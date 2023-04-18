@@ -39,7 +39,7 @@ require("connection.php");
                 <i id="hide2" class="bi bi-eye-slash"></i>
             </span>
         </div>
-        <button type="button" class="btn btn-primary login-btn" name="Signin" value="Signin">LOGIN</button>
+        <button type="submit" class="btn btn-primary login-btn" name="Signin" value="Signin">LOGIN</button>
         </form>
     </div>
 
